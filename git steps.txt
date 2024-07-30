@@ -12,3 +12,8 @@ git push origin master <branch_name>
 git add .
 git commit -m " message"
 git push origin master <branch_name> 
+
+
+
+//practice 
+typing command for git changesg
