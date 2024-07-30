@@ -1,0 +1,14 @@
+//if doing for first time
+
+git init
+git add .
+git commit -m 'commit message'
+git remote add origin "ssh address" eg:git@github.com:aayush-k2006/ruby_projects.git
+git push origin master <branch_name>
+
+
+
+// if making changes
+git add .
+git commit -m " message"
+git push origin master <branch_name> 
